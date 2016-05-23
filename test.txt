@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link href="https://raw.githubusercontent.com/wordpress-Farsi/-/master/txtstyle.css" rel="stylesheet" type="text/css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <META NAME="Title" CONTENT="وردپرس فارسی|طراحی وبسایت|افزونه وردپرس|پوسته وردپرس|آموزش وردپرس">
 <META NAME="Keywords" CONTENT="قالب وردپرس فارسی,WordPress Plugin,wordpress theme,وردپرس,قالب وردپرس,افزونه وردپرس,دانلود قالب وردپرس,قالب رایگان وردپرس,وردپرس فارسی,تم وردپرس,آموزش وردپرس">
